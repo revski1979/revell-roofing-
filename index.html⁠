@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Revell Roofing | Roof Tiling, Slating & Repairs Clacton-on-Sea & Essex</title>
+    <meta name="description" content="Professional roofing contractor in Clacton-on-Sea with nearly 30 years experience. Specialists in roof repairs, new pitch roofs, slate & tile, leadwork, chimney maintenance, gutter clearance, and biocide moss removal across Essex. Call 07881 681124.">
+    <link rel="canonical" href="https://www.revellroofing.co.uk/">
+
+    <style>
+        :root {
+            --bg-color: #121212;
+            --card-bg: #1e1e1e;
+            --accent-red: #e31b23;
+            --text-light: #f5f5f5;
+            --text-muted: #a0a0a0;
+            --border-color: #333333;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+        body { background-color: var(--bg-color); color: var(--text-light); line-height: 1.6; }
+
+        header { background: #0a0a0a; border-bottom: 2px solid var(--accent-red); position: sticky; top: 0; z-index: 1000; padding: 15px 5%; display: flex; justify-content: space-between; align-items: center; }
+        .logo-text h1 { font-size: 1.4rem; color: #fff; text-transform: uppercase; letter-spacing: 1px; }
+        .logo-text span { color: var(--accent-red); font-size: 0.85rem; display: block; font-weight: 600; letter-spacing: 1.5px; }
+
+        nav ul { display: flex; list-style: none; gap: 20px; }
+        nav a { color: var(--text-light); text-decoration: none; font-weight: 500; font-size: 0.95rem; }
+        nav a:hover { color: var(--accent-red); }
+
+        .btn-call { background: var(--accent-red); color: #fff; padding: 10px 20px; border-radius: 4px; text-decoration: none; font-weight: bold; display: inline-block; }
+
+        .hero { padding: 80px 5%; text-align: center; background: linear-gradient(rgba(0,0,0,0.85), rgba(0,0,0,0.85)), url('https://lh3.googleusercontent.com/YauqT7SMJfxI_uS8Fd-psXpabYdsolX7xMWPUHkdKd4leL1J2iR1V96-nfjZuf1yqVm2ZsP-gXOugCY_pQ=s0') center/cover; }
+        .hero h2 { font-size: 2.2rem; margin-bottom: 15px; color: #fff; }
+        .hero p { color: var(--text-muted); max-width: 800px; margin: 0 auto 25px auto; font-size: 1.1rem; }
+
+        .container { padding: 50px 5%; max-width: 1200px; margin: 0 auto; }
+        .section-title { text-align: center; margin-bottom: 35px; }
+        .section-title h3 { font-size: 1.8rem; text-transform: uppercase; position: relative; display: inline-block; padding-bottom: 8px; }
+        .section-title h3::after { content: ''; position: absolute; bottom: 0; left: 50%; transform: translateX(-50%); width: 50px; height: 3px; background: var(--accent-red); }
+
+        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px; }
+        .card { background: var(--card-bg); border: 1px solid var(--border-color); border-radius: 6px; overflow: hidden; }
+        .card img { width: 100%; height: 210px; object-fit: cover; }
+        .card-body { padding: 20px; }
+        .card-body h4 { font-size: 1.2rem; color: #fff; margin-bottom: 10px; }
+        .card-body p { color: var(--text-muted); font-size: 0.95rem; }
+
+        footer { background: #0a0a0a; text-align: center; padding: 20px; border-top: 1px solid var(--border-color); color: var(--text-muted); font-size: 0.9rem; }
+    </style>
+</head>
+<body>
+
+    <header>
+        <div class="logo-text">
+            <h1>REVELL ROOFING</h1>
+            <span>TILE & SLATE SPECIALISTS</span>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+        <a href="tel:07881681124" class="btn-call">CALL: 07881 681124</a>
+    </header>
+
+    <section class="hero">
+        <h2>Clacton & Essex Roofing Specialists</h2>
+        <p>Nearly 30 years trade experience in pitched roof tiling, slate work, leadwork, roof repairs, chimney maintenance, gutter clearance, and biocide moss removal.</p>
+        <a href="tel:07881681124" class="btn-call">CALL 07881 681124</a>
+    </section>
+
+    <section id="services" class="container">
+        <div class="section-title">
+            <h3>Specialized Services</h3>
+        </div>
+        <div class="grid">
+            <div class="card">
+                <img src="https://lh3.googleusercontent.com/YauqT7SMJfxI_uS8Fd-psXpabYdsolX7xMWPUHkdKd4leL1J2iR1V96-nfjZuf1yqVm2ZsP-gXOugCY_pQ=s0" alt="New Pitch Roof Tiling">
+                <div class="card-body">
+                    <h4>New Roofs & Pitch Re-Roofs</h4>
+                    <p>Complete roof replacements built to specification using breathable underlay membranes, treated timber battens, and hand-fitted tiles or slates.</p>
+                </div>
+            </div>
+            <div class="card">
+                <img src="https://lh3.googleusercontent.com/WJsr4L6n9aCvjhyGELZCNJSjUktC4nHyVFz2gqqfxXypLkwfqqPDWdbJ8SNMKIroyBjjU-mEB0apxMWniQ=s0" alt="Slate and Tile Roofing">
+                <div class="card-body">
+                    <h4>Slate & Tile Roofing</h4>
+                    <p>Specialists in traditional clay plain tiles, natural and synthetic slate, concrete interlocking tiles, dry ridge systems, and ornamental gables.</p>
+                </div>
+            </div>
+            <div class="card">
+                <img src="https://lh3.googleusercontent.com/bGPaJlCn8-YHtnDB29AoOXUbAY0o3_HxSd-XhD0JM6py3rXb4FqD-tiZ323aA2TYtbo-Mya-dluXqPkD8w=s0" alt="Roof Repairs and Parapet Repairs">
+                <div class="card-body">
+                    <h4>Roof Repairs & Parapet Work</h4>
+                    <p>Targeted repairs for slipped tiles, storm damage, parapet wall masonry repairs, leaking valleys, ridge mortar, and roof inspections.</p>
+                </div>
+            </div>
+            <div class="card">
+                <img src="https://lh3.googleusercontent.com/FvLQGmhfqzMHMQJ9cfKuQ9fse1Nxief6NNRs-YZd_RONJtQ5ZLaV9UGEhkqNvI1FNfTQDj1_qkhu8LORQA=s0" alt="Leadwork and Chimney Repairs">
+                <div class="card-body">
+                    <h4>Leadwork & Chimneys</h4>
+                    <p>Code 4 & 5 milled lead flashings, step flashing, lead aprons, GRP open valley systems, and chimney stack maintenance & repointing.</p>
+                </div>
+            </div>
+            <div class="card">
+                <img src="https://lh3.googleusercontent.com/mrmZPJE9G9Njzj68M8YfXiCup5HI9ZSBKpT2vJTyxAyjcpQxIsmoTlCXQE2V0LQ4RbiW04aMJeVM6hClzg=s0" alt="Gutter Clearance">
+                <div class="card-body">
+                    <h4>Gutter Clearance</h4>
+                    <p>Manual clearance of blocked gutters, downpipes, and outlets off ladders to ensure water flows properly and prevents dampness.</p>
+                </div>
+            </div>
+            <div class="card">
+                <img src="https://lh3.googleusercontent.com/4vC2YhgrZS69SI2aGQCQkGWIGUSTCao2QDXGUlwRTXIx50CijfCQOd6hX9sP2W79DGMKlc0Y7FvqCDBlrw=s0" alt="Moss Removal and Biocide Treatment">
+                <div class="card-body">
+                    <h4>Moss Removal & Biocide Treatment</h4>
+                    <p>Manual scrape moss removal off ladders followed by professional biocide application to treat spores and protect tile integrity.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; REVELL ROOFING TILE & SLATE SPECIALISTS. Serving Clacton-on-Sea & Essex. Call 07881 681124.</p>
+    </footer>
+
+</body>
+</html>
